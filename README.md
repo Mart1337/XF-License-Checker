@@ -15,6 +15,14 @@
 
 ---
 
+**HOW IT WORKS ?**
+
+```php
+https://yourdomain.com/check.php?license_id=YOUR_LICENSE
+```
+
+
+
 **Legal Notice**
 
 ```console
